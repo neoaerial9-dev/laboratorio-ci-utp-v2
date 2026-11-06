@@ -1,0 +1,22 @@
+{
+  "name": "laboratorio-ci-utp-v2",
+  "version": "1.0.0",
+  "description": "Laboratorio (N°13) para comprender y aplicar procesos automatizados de Integración Continua para el desarrollo de un microservicio web de cálculo aritmético.",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neoaerial9-dev/laboratorio-ci-utp-v2.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/neoaerial9-dev/laboratorio-ci-utp-v2/issues"
+  },
+  "homepage": "https://github.com/neoaerial9-dev/laboratorio-ci-utp-v2#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
